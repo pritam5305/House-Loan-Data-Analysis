@@ -16,3 +16,6 @@ Steps to be done:
 ⦁    Encode the columns that is required for the model
 ⦁    Calculate Sensitivity as a metrice
 ⦁    Calculate area under receiver operating characteristics curve
+
+LINK FOR THE DATASET
+                 https://www.dropbox.com/s/smt43gz12eijbo6/loan_data%20%281%29.csv?dl=0
